@@ -1,1 +1,0 @@
-# EtymologyAnalyzer.github.io
